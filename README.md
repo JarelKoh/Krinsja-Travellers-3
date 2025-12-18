@@ -4,7 +4,7 @@ This repository contains the code, data, and report for **FYS-STK3155 Project 3*
 
 The project includes:
 - Reproducible Python code converted from Jupyter notebooks
-- A locally stored dataset
+- Jupyter Notebooks
 - The final report written in Overleaf (PDF)
 
 ---
@@ -23,5 +23,9 @@ Krinsja-Travellers-3/
 │   └── requirements.txt
 │
 ├── FYS_STK3155_Project3.pdf #Report
+│
+├── Project3.ipynb 
+│
+├── Project3_hyperparameters.ipynb #Testing of hyperparameters
 │
 └── README.md
