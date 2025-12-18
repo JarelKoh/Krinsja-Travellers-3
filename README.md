@@ -22,7 +22,6 @@ Krinsja-Travellers-3/
 │   ├── metrics.py              # Dice score and evaluation helpers
 │   └── requirements.txt
 │
-├── Report/
-│   └── FYS_STK3155_Project3.pdf # Final report (Overleaf export)
+├── FYS_STK3155_Project3.pdf #Report
 │
 └── README.md
